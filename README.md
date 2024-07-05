@@ -26,7 +26,7 @@ Feel free to comment on any existing feature requests that you also want to requ
 If you're filing a bug, please include the following:
 
 - MacOS version
-- Multitouch version
+- Processor (Intel, M1, ...)
 - Detailed steps to reproduce
 
 If you wish to contact me directly, feel free to send an email to [contact@clemstation.com](mailto:contact@clemstation.com).
