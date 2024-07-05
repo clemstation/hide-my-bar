@@ -1,6 +1,6 @@
 # Hide My Bar Community
 
-![logo](https://github.com/clemstation/hide-my-bar/blob/main/hide-my-bar-logo.png)
+![logo](https://github.com/clemstation/hide-my-bar/blob/main/img/hide-my-bar-logo.png)
 
 ## About
 

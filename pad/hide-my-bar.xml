@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252" ?> 
+
+<!-- Created By PAD Creator version: 1.2.2 -->
+<!-- Available for download at: http://www.padcreator.com -->
+
+<XML_DIZ_INFO>
+
+<MASTER_PAD_VERSION_INFO>
+ <MASTER_PAD_VERSION>1.15</MASTER_PAD_VERSION>
+ <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+</MASTER_PAD_VERSION_INFO>
+
+<Company_Info>
+ <Company_Name>Clemstation</Company_Name>
+ <Address_1 />
+ <Address_2 />
+ <City_Town />
+ <State_Province />
+ <Zip_Postal_Code />
+ <Country>United States</Country>
+ <Company_WebSite_URL>https://clemstation.com</Company_WebSite_URL>
+  <Contact_Info>
+  <Author_First_Name>Clement</Author_First_Name>
+  <Author_Last_Name>Rousseau</Author_Last_Name>
+  <Author_Email>contact@clemstation.com</Author_Email>
+  <Contact_First_Name>Clement</Contact_First_Name>
+  <Contact_Last_Name>Rousseau</Contact_Last_Name>
+  <Contact_Email>contact@clemstation.com</Contact_Email>
+ </Contact_Info>
+ <Support_Info>
+  <Sales_Email />
+  <Support_Email />
+  <General_Email />
+  <Sales_Phone />
+  <Support_Phone />
+  <General_Phone />
+  <Fax_Phone />
+ </Support_Info>
+</Company_Info>
+
+<Program_Info>
+ <Program_Name>Hide My Bar</Program_Name>
+ <Program_Version>2.6.1</Program_Version>
+ <Program_Release_Month />
+ <Program_Release_Day />
+ <Program_Release_Year />
+ <Program_Cost_Dollars>4.99</Program_Cost_Dollars>
+ <Program_Cost_Other_Code />
+ <Program_Cost_Other />
+ <Program_Type>Shareware</Program_Type>
+ <Program_Release_Status>Major Update</Program_Release_Status>
+ <Program_Install_Support />
+ <Program_OS_Support>Mac 68k</Program_OS_Support>
+ <Program_Language>English,Spanish,French,German,Italian,ChineseSimplified</Program_Language>
+ <File_Info>
+  <Filename_Versioned />
+  <Filename_Previous />
+  <Filename_Generic />
+  <Filename_Long />
+  <File_Size_Bytes />
+  <File_Size_K />
+  <File_Size_MB />
+ </File_Info>
+ <Expire_Info>
+  <Has_Expire_Info>N</Has_Expire_Info>
+  <Expire_Count />
+  <Expire_Based_On />
+  <Expire_Other_Info />
+ </Expire_Info>
+ <Program_Change_Info />
+ <Program_Specific_Category />
+ <Program_Categories />
+ <Program_System_Requirements />
+ <Includes_JAVA_VM>N</Includes_JAVA_VM>
+ <Includes_VB_Runtime>N</Includes_VB_Runtime>
+ <Includes_DirectX>N</Includes_DirectX>
+</Program_Info>
+
+<Program_Descriptions>
+ <English>
+  <Keywords>touchbar, tuch abr, tuch bar, touch bar, TouchBar, Touch Bar, Touch Bar flickering, Touch Bar blinking, disable touch bar, turn</Keywords>
+  <Char_Desc_45>macOS app to disable the Touch Bar</Char_Desc_45>
+  <Char_Desc_80>macOS app to disable the Touch Bar. Stop the flickering and blinking now!</Char_Desc_80>
+  <Char_Desc_250>The Touch Bar can get in the way of productivity, especially when it's no longer in its prime and starts flickering. So how do you even turn it off?
+Hide My Bar is a macOS app that allows you to turn the Touch Bar on and off in an instant.</Char_Desc_250>
+  <Char_Desc_450>Your Touch Bar is no longer in its prime and starts flickering? So how do you even turn it off and disable it?
+
+Hide My Bar is a macOS app that allows you to disable the Touch Bar.
+
+Simply double-tap on the key of your choice and the Touch Bar will be disabled and will stop flickering and blinking. Need it again for a quick action? Double-tap again to turn it back on.
+And don't worry if you don't have a physical Escape key. We've got you covered.</Char_Desc_450>
+  <Char_Desc_2000>Your Touch Bar is no longer in its prime and starts flickering? So how do you even turn it off and disable it?
+
+Hide My Bar is a macOS app that allows you to disable the Touch Bar.
+
+Simply double-tap on the key of your choice and the Touch Bar will be disabled and will stop flickering and blinking. Need it again for a quick action? Double-tap again to turn it back on.
+And don't worry if you don't have a physical Escape key. We've got you covered.
+
+There's no more convenient way to work with the Touch Bar and stop its flickering and blinking. Don't waste any more productivity time.
+
+Get Hide My Bar for free for the next 10 days now!</Char_Desc_2000>
+ </English>
+</Program_Descriptions>
+
+<Web_Info>
+ <Application_URLs>
+  <Application_Info_URL>https://hidemybar.clemstation.com</Application_Info_URL>
+  <Application_Order_URL />
+  <Application_Screenshot_URL>https://hidemybar.clemstation.com/img/bar-on-off.gif</Application_Screenshot_URL>
+  <Application_Icon_URL>https://hidemybar.clemstation.com/img/global/hmb_logo_512.png</Application_Icon_URL>
+  <Application_XML_File_URL>https://hidemybar.clemstation.com/pad/hide-my-bar.xml</Application_XML_File_URL>
+ </Application_URLs>
+ <Download_URLs>
+  <Primary_Download_URL>https://hidemybar.clemstation.com/download/Hide%20My%20Bar%201.7.5.dmg</Primary_Download_URL>
+  <Secondary_Download_URL />
+  <Additional_Download_URL_1 />
+  <Additional_Download_URL_2 />
+ </Download_URLs>
+</Web_Info>
+
+<Permissions>
+ <Distribution_Permissions />
+ <EULA />
+</Permissions>
+
+
+
+
+
+</XML_DIZ_INFO>
+
