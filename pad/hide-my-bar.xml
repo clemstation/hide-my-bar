@@ -41,25 +41,25 @@
 <Program_Info>
  <Program_Name>Hide My Bar</Program_Name>
  <Program_Version>2.6.1</Program_Version>
- <Program_Release_Month />
- <Program_Release_Day />
- <Program_Release_Year />
+ <Program_Release_Month>07</Program_Release_Month>
+ <Program_Release_Day>04</Program_Release_Day>
+ <Program_Release_Year>2024</Program_Release_Year>
  <Program_Cost_Dollars>4.99</Program_Cost_Dollars>
  <Program_Cost_Other_Code />
  <Program_Cost_Other />
  <Program_Type>Shareware</Program_Type>
  <Program_Release_Status>Major Update</Program_Release_Status>
  <Program_Install_Support />
- <Program_OS_Support>Mac 68k</Program_OS_Support>
+ <Program_OS_Support>macOS</Program_OS_Support>
  <Program_Language>English,Spanish,French,German,Italian,ChineseSimplified</Program_Language>
  <File_Info>
-  <Filename_Versioned />
+  <Filename_Versioned>hmb17</Filename_Versioned>
   <Filename_Previous />
-  <Filename_Generic />
-  <Filename_Long />
+  <Filename_Generic>Hide My Ba</Filename_Generic>
+  <Filename_Long>Hide My Bar 1.7.5.dmg</Filename_Long>
   <File_Size_Bytes />
-  <File_Size_K />
-  <File_Size_MB />
+  <File_Size_K>9940</File_Size_K>
+  <File_Size_MB>9.9</File_Size_MB>
  </File_Info>
  <Expire_Info>
   <Has_Expire_Info>N</Has_Expire_Info>
@@ -67,10 +67,11 @@
   <Expire_Based_On />
   <Expire_Other_Info />
  </Expire_Info>
- <Program_Change_Info />
- <Program_Specific_Category />
- <Program_Categories />
- <Program_System_Requirements />
+ <Program_Change_Info>Adding new shortcut</Program_Change_Info>
+ <Program_Specific_Category>Utilities</Program_Specific_Category>
+ <Program_Categories>Utilities</Program_Categories>
+ <PROGRAM_CATEGORY_CLASS>Utilities</PROGRAM_CATEGORY_CLASS>
+ <Program_System_Requirements>10.13</Program_System_Requirements>
  <Includes_JAVA_VM>N</Includes_JAVA_VM>
  <Includes_VB_Runtime>N</Includes_VB_Runtime>
  <Includes_DirectX>N</Includes_DirectX>
@@ -128,4 +129,3 @@ Get Hide My Bar for free for the next 10 days now!</Char_Desc_2000>
 
 
 </XML_DIZ_INFO>
-
