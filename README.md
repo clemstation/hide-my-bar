@@ -7,13 +7,13 @@
 Your Touch Bar comes in the way of your producitivity? Worse, it's no longer in its prime and it started flickering?
 
 
-[Hide My Bar](https://hidemybar.clemstation.com/) is a macOS app that allows you to turn off the Touch Bar in an instant. Simply double-tap on the key of your choice and the Touch Bar will be disabled. No more flickering. Need it for a quick action? Double-tap again to turn it back on.
+[Hide My Bar](https://clemstation.com/hide-my-bar) is a macOS app that allows you to turn off the Touch Bar in an instant. Simply double-tap on the key of your choice and the Touch Bar will be disabled. No more flickering. Need it for a quick action? Double-tap again to turn it back on.
 
 ## Get Started with Hide My Bar
 
 To download and install Hide My Bar on your Mac:
 
-1. Head over to [https://hidemybar.clemstation.com/](https://hidemybar.clemstation.com/) to grab the latest version.
+1. Head over to [https://clemstation.com/hide-my-bar](https://clemstation.com/hide-my-bar) to grab the latest version.
 2. Launch Hide My Bar from your Applications folder or Dock.
 3. Choose your shortcut key and disable your Touch Bar now!
 
@@ -41,7 +41,7 @@ It is working well alongside Karabiner, BTT and many others. However some users 
 FastSpring is our merchant to handle transactions and license keys delivery. Please go to their consumer support page to submit a support inquiry.
 
 ### What is Hide My Bar’s privacy policy?
-We don’t collect any data. Please checkout our Privacy Policy page on our [website](https://hidemybar.clemstation.com) to read our latest policy.
+We don’t collect any data. Please checkout our Privacy Policy page on our [website](https://clemstation.com)hide-my-bar to read our latest policy.
 
 ## Issues and Feature requests
 
